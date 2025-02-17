@@ -2,7 +2,7 @@
     <!-- Botão de Voltar -->
 
 
-    <x-back-button texto="Voltar"/>  
+    <x-back-button texto="Voltar anterior"/>  
     
 
     <h2 class="text-3xl font-bold text-center mb-6 text-gray-800">Editar Evento</h2>

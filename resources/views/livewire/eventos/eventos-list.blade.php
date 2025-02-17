@@ -1,5 +1,5 @@
 <div class="container mx-auto px-4 py-6">
-    <x-back-button texto="Voltar"/>  
+    <x-back-button texto="Voltar anterior"/>  
 
     <!-- Barra de pesquisa -->
     <div class="mb-8 flex justify-center">
