@@ -1,4 +1,6 @@
 <div class="container mx-auto px-4 py-6">
+    <x-back-button texto="Voltar"/>  
+
     <!-- Barra de pesquisa -->
     <div class="mb-8 flex justify-center">
         <div class="relative w-full max-w-lg">

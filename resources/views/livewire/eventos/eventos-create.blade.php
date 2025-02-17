@@ -1,4 +1,6 @@
     <div class="max-w-4xl mx-auto p-6 bg-white rounded-lg shadow-lg mt-5">
+        <x-back-button texto="Voltar"/>  
+
         <h2 class="text-3xl font-bold text-center mb-6 text-gray-800">Cadastrar Evento</h2>
 
         <form wire:submit.prevent="salvar" class="space-y-6">
